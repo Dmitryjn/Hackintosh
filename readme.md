@@ -77,7 +77,7 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 [Lilu]: https://github.com/acidanthera/Lilu
 [OC]: https://github.com/acidanthera/OpenCorePkg
 [System Info]: https://eljnavas.files.wordpress.com/2021/01/info.png
-[uptime]: https://i.imgur.com/OGl5UDI.png
+[uptime]: 
 [VirtualSMC]: https://github.com/acidanthera/VirtualSMC
 [WG]: https://github.com/acidanthera/WhateverGreen
 [WI]: https://github.com/khronokernel/IO80211-Patches/blob/main/10.13.6-High-Sierra-Kexts/IO80211HighSierra.kext.zip
