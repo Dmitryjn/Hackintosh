@@ -1,4 +1,4 @@
-# Hackintosh on Asrock H370 pro4 Code via [OpenCore][OC]
+# Hackintosh on Asrock H370 pro4 via [OpenCore][OC]
 
 ![About this mac][System Info]
 
@@ -69,9 +69,9 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 [AppleALC]: https://github.com/acidanthera/AppleALC
 [BIOS]: https://www.asus.com/Motherboards/ROG-MAXIMUS-X-CODE/HelpDesk_BIOS/
 [FV2]: https://lifehacker.com/bypass-a-filevault-password-at-startup-by-rebooting-fro-1686770324
-[GB_CPU]: https://browser.geekbench.com/v5/cpu/4261705
-[GB_MTL]: https://browser.geekbench.com/v5/compute/1671274
-[GB_OCL]: https://browser.geekbench.com/v5/compute/1671254
+[GB_CPU]: https://browser.geekbench.com/v5/cpu/6076431
+[GB_MTL]: https://browser.geekbench.com/v5/compute/2289808
+[GB_OCL]: https://browser.geekbench.com/v5/compute/2289810
 [Guide]: https://dortania.github.io/OpenCore-Desktop-Guide/
 [IntelMausi]: https://github.com/acidanthera/IntelMausi
 [Lilu]: https://github.com/acidanthera/Lilu
