@@ -19,7 +19,6 @@ This is light configuration to run macOS smoothly. I didn't get any [kernel pani
 ## Before you start make sure you have
 
 * Working hardware
-* [BIOS][BIOS] version `>= 2102`
 * Actual [OpenCore][OC] `= 0.6.4`
 * Populated `PlatformInfo > Generic` section in `config.plist`, can be easyly done with `macserial` tool from [OpenCore][OC] utilities.
 
@@ -67,12 +66,11 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 * The initial push to GitHub
 
 [AppleALC]: https://github.com/acidanthera/AppleALC
-[BIOS]: https://www.asus.com/Motherboards/ROG-MAXIMUS-X-CODE/HelpDesk_BIOS/
 [FV2]: https://lifehacker.com/bypass-a-filevault-password-at-startup-by-rebooting-fro-1686770324
 [GB_CPU]: https://browser.geekbench.com/v5/cpu/6076431
 [GB_MTL]: https://browser.geekbench.com/v5/compute/2289808
 [GB_OCL]: https://browser.geekbench.com/v5/compute/2289810
-[Guide]: https://dortania.github.io/OpenCore-Desktop-Guide/
+[Guide]: https://dortania.github.io/OpenCore-Install-Guide/
 [IntelMausi]: https://github.com/acidanthera/IntelMausi
 [Lilu]: https://github.com/acidanthera/Lilu
 [OC]: https://github.com/acidanthera/OpenCorePkg
