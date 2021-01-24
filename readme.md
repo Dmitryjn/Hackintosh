@@ -47,6 +47,9 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 * [Lilu.kext][Lilu] - Dependency of `VirtualSMC.kext` and `WhateverGreen.kext`
 * [VirtualSMC.kext][VirtualSMC] - A advanced replacement of FakeSMC, almost like native mac SMC.
 * [WhateverGreen.kext][WG] - Need for GPU support (even for disabling discrete GPU)
+* [IO80211HighSierra][WI] Needed for Wi-Fi support on Catalina.
+* [USBInjectALL][USB] USB Support
+* [OS-X-USB-Inject-All][USBS] Needed for USB Support on Asrock board.
 
 
 ### EFI drivers
@@ -60,7 +63,7 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 
 
 ## Chnagelog
-###### 07/10/2019
+###### 01/23/2021
 * The initial push to GitHub
 
 [AppleALC]: https://github.com/acidanthera/AppleALC
@@ -77,4 +80,6 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 [uptime]: https://i.imgur.com/OGl5UDI.png
 [VirtualSMC]: https://github.com/acidanthera/VirtualSMC
 [WG]: https://github.com/acidanthera/WhateverGreen
-
+[WI]: https://github.com/khronokernel/IO80211-Patches/blob/main/10.13.6-High-Sierra-Kexts/IO80211HighSierra.kext.zip
+[USB]: https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/
+[USBS]: https://github.com/RehabMan/OS-X-USB-Inject-All
