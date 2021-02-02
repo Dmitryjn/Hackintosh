@@ -27,10 +27,11 @@ This is light configuration to run macOS smoothly. I didn't get any [kernel pani
 ## BIOS Settings
 
 * *Exit* → Load Optimized Defaults [Yes]
-* *Advanced* → System Agent (SA) Configuration → VT-d [**Disable**]
-* *Advanced* → System Agent (SA) Configuration → Primary Display [**IGPU**]
-* *Advanced* → System Agent (SA) Configuration → DVMT Pre-Allocated [**64M**]
-* *Advanced* → USB Configuration → Legacy USB Support [**Disabled**]
+* *Advanced* → Chipset Configuration → VT-d [**Disable**]
+* *Advanced* → Chipset Configuration → Above 4G Decoding [**Enabled**]
+* *Advanced* → Chipset Configuration → Share Memory [**64M**]
+* *Advanced* → USB Configuration → Legacy USB Support [**UEFI Setup Only**]
+* *Advanced* → USB Configuration → XHCI Hand-off [**Enabled**]
 * *Advanced* → CPU Configuration → Intel Virtualization Technology [**Enabled**]
 * *Boot* → Fast Boot [**Disabled**]
 * *Boot* → CSM (Compatibility Support Module) → Launch CSM [**Disabled**]
