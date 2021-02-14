@@ -75,7 +75,7 @@ You must download all not bundled kexts and drivers from repositories by yoursel
 [IntelMausi]: https://github.com/acidanthera/IntelMausi
 [Lilu]: https://github.com/acidanthera/Lilu
 [OC]: https://github.com/acidanthera/OpenCorePkg/releases
-[System Info]: https://eljnavas.files.wordpress.com/2021/01/info.png
+[System Info](/info.png)
 [uptime]: https://eljnavas.files.wordpress.com/2021/01/uptime.png
 [VirtualSMC]: https://github.com/acidanthera/VirtualSMC
 [WG]: https://github.com/acidanthera/WhateverGreen
